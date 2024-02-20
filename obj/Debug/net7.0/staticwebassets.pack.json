@@ -1,0 +1,553 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Portfolio.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Portfolio.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\Project\\1.PNG",
+      "PackagePath": "staticwebassets\\Project\\1.PNG"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\Project\\20240218120000390.jpg",
+      "PackagePath": "staticwebassets\\Project\\20240218120000390.jpg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\Project\\20240218120021904.jpg",
+      "PackagePath": "staticwebassets\\Project\\20240218120021904.jpg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\Project\\20240219105450036.jpg",
+      "PackagePath": "staticwebassets\\Project\\20240219105450036.jpg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\Project\\20240219110036096.jpg",
+      "PackagePath": "staticwebassets\\Project\\20240219110036096.jpg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\Project\\20240219110858119.jpg",
+      "PackagePath": "staticwebassets\\Project\\20240219110858119.jpg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\Project\\20240219111855621.jpg",
+      "PackagePath": "staticwebassets\\Project\\20240219111855621.jpg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\Project\\20240219145957318.jpg",
+      "PackagePath": "staticwebassets\\Project\\20240219145957318.jpg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\Project\\20240219152500349.jpg",
+      "PackagePath": "staticwebassets\\Project\\20240219152500349.jpg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\Project\\20240220064231906.jpg",
+      "PackagePath": "staticwebassets\\Project\\20240220064231906.jpg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\css\\maicons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\maicons.css"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\css\\minibar.virtual.css",
+      "PackagePath": "staticwebassets\\assets\\css\\minibar.virtual.css"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\css\\topbar.virtual.css",
+      "PackagePath": "staticwebassets\\assets\\css\\topbar.virtual.css"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\css\\virtual.css",
+      "PackagePath": "staticwebassets\\assets\\css\\virtual.css"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\fonts\\maicons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\maicons.eot"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\fonts\\maicons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\maicons.svg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\fonts\\maicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\maicons.ttf"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\fonts\\maicons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\maicons.woff"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\img\\HNT.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\HNT.jpg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\img\\bg_banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg_banner.jpg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\img\\bg_image_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg_image_1.jpg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\img\\bg_image_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg_image_2.jpg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\img\\logo\\amazon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\amazon.png"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\img\\logo\\company_1.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\company_1.svg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\img\\logo\\company_2.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\company_2.svg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\img\\logo\\company_3.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\company_3.svg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\img\\logo\\company_4.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\company_4.svg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\img\\logo\\company_5.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\company_5.svg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\img\\logo\\company_6.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\company_6.svg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\img\\logo\\company_7.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\company_7.svg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\img\\logo\\company_8.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\company_8.svg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\img\\logo\\google.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\google.png"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\img\\logo\\microsoft.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\microsoft.png"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\img\\logo\\nginx.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\nginx.png"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\img\\photo-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\photo-2.jpg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\img\\testimonials\\testimonials_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials_1.jpg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\img\\testimonials\\testimonials_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials_2.jpg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\img\\work\\work-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\work\\work-1.jpg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\img\\work\\work-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\work\\work-2.jpg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\img\\work\\work-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\work\\work-3.jpg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\img\\work\\work-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\work\\work-4.jpg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\img\\work\\work-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\work\\work-5.jpg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\img\\work\\work-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\work\\work-6.jpg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\img\\work\\work-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\work\\work-7.jpg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\img\\work\\work-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\work\\work-8.jpg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\img\\work\\work-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\work\\work-9.jpg"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\js\\google-maps.js",
+      "PackagePath": "staticwebassets\\assets\\js\\google-maps.js"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\js\\jquery-3.5.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.5.1.min.js"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\js\\minibar-virtual.js",
+      "PackagePath": "staticwebassets\\assets\\js\\minibar-virtual.js"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\js\\topbar-virtual.js",
+      "PackagePath": "staticwebassets\\assets\\js\\topbar-virtual.js"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\vendor\\animateNumber\\jquery.animateNumber.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\animateNumber\\jquery.animateNumber.min.js"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\vendor\\fancybox\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fancybox\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\vendor\\fancybox\\js\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fancybox\\js\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\vendor\\isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\vendor\\nice-select\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\nice-select\\css\\nice-select.css"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\vendor\\nice-select\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\nice-select\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\vendor\\owl-carousel\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\owl-carousel\\owl.carousel.css"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\vendor\\owl-carousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\owl-carousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\vendor\\waypoints\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\waypoints\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\assets\\vendor\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\wow\\wow.min.js"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\cv\\CV_Huynh_Nam_Thanh_Unity_Developer.pdf",
+      "PackagePath": "staticwebassets\\cv\\CV_Huynh_Nam_Thanh_Unity_Developer.pdf"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\html\\blog-minibar.html",
+      "PackagePath": "staticwebassets\\html\\blog-minibar.html"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Portfolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Portfolio.props",
+      "PackagePath": "build\\Portfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Portfolio.props",
+      "PackagePath": "buildMultiTargeting\\Portfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Portfolio.props",
+      "PackagePath": "buildTransitive\\Portfolio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,58 @@
+﻿@page
+@model Portfolio.Pages.Admin.Account.LoginModel
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Login</title>
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="~/assets/css/style.css" asp-append-version="true">
+</head>
+<body>
+	<!-- partial:index.partial.html -->
+	<div class="box-form">
+		<div class="left">
+			<div class="overlay">
+				<h1>Welcome Admin</h1>
+			</div>
+		</div>
+
+		<form method="post">
+		<div class="right">
+			<h5>Login</h5>
+			<p>Contact  <a href="https://www.facebook.com/GamiPrimo/" target="_blank"> here </a>  to create an Admin account</p>
+			<div class="inputs">
+					<div>
+						<input type="text" id="UserName" name="UserName" placeholder="user name" />
+					</div>
+					<div>
+						<input type="password" id="Password" name="Password" placeholder="password" />
+					</div>
+				@if (Model.errorMessage.Length > 0)
+				{
+					<div class='alert alert-warning alert-dismissible fade show' role="alert" style="color: #ff5555; font-size: 12px;">
+						<strong> @Model.errorMessage </strong>
+					</div>
+				}
+				else if (Model.successMessage.Length > 0)
+				{
+					<div class='alert alert-warning alert-dismissible fade show' role="alert" style="color: #ff5555; font-size: 12px;">
+						<strong> @Model.successMessage </strong>
+					</div>
+				}
+				
+			</div>
+
+
+			<br>
+			<button type="submit">Login</button>
+		</div>
+		</form>
+	</div>
+	<!-- partial -->
+
+</body>
+</html>
