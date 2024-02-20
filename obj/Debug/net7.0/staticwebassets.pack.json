@@ -297,10 +297,6 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\html\\blog-minibar.html",
-      "PackagePath": "staticwebassets\\html\\blog-minibar.html"
-    },
-    {
       "Id": "F:\\ASPNET\\Portfolio\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

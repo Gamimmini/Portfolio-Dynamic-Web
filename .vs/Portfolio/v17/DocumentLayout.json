@@ -3,11 +3,42 @@
   "WorkspaceRootPath": "F:\\ASPNET\\Portfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ASPNET\\virtual-folio\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9A457876-A6AD-4B57-BB65-900F4534CAB2}|Portfolio.csproj|f:\\aspnet\\portfolio\\pages\\admin\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A457876-A6AD-4B57-BB65-900F4534CAB2}|Portfolio.csproj|solutionrelative:pages\\admin\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A457876-A6AD-4B57-BB65-900F4534CAB2}|Portfolio.csproj|f:\\aspnet\\portfolio\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9A457876-A6AD-4B57-BB65-900F4534CAB2}|Portfolio.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A457876-A6AD-4B57-BB65-900F4534CAB2}|Portfolio.csproj|f:\\aspnet\\portfolio\\pages\\admin\\projects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A457876-A6AD-4B57-BB65-900F4534CAB2}|Portfolio.csproj|solutionrelative:pages\\admin\\projects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A457876-A6AD-4B57-BB65-900F4534CAB2}|Portfolio.csproj|f:\\aspnet\\portfolio\\pages\\admin\\projects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A457876-A6AD-4B57-BB65-900F4534CAB2}|Portfolio.csproj|solutionrelative:pages\\admin\\projects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A457876-A6AD-4B57-BB65-900F4534CAB2}|Portfolio.csproj|f:\\aspnet\\portfolio\\pages\\admin\\projects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A457876-A6AD-4B57-BB65-900F4534CAB2}|Portfolio.csproj|solutionrelative:pages\\admin\\projects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A457876-A6AD-4B57-BB65-900F4534CAB2}|Portfolio.csproj|f:\\aspnet\\portfolio\\pages\\admin\\projects\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A457876-A6AD-4B57-BB65-900F4534CAB2}|Portfolio.csproj|solutionrelative:pages\\admin\\projects\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A457876-A6AD-4B57-BB65-900F4534CAB2}|Portfolio.csproj|f:\\aspnet\\portfolio\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A457876-A6AD-4B57-BB65-900F4534CAB2}|Portfolio.csproj|solutionrelative:pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A457876-A6AD-4B57-BB65-900F4534CAB2}|Portfolio.csproj|f:\\aspnet\\portfolio\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A457876-A6AD-4B57-BB65-900F4534CAB2}|Portfolio.csproj|solutionrelative:services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/._SQLEXPRESS/Project/True/SqlTable/dbo.Projects.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ASPNET\\virtual-folio\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,20 +48,94 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "index.html",
-              "DocumentMoniker": "F:\\ASPNET\\virtual-folio\\index.html",
-              "RelativeDocumentMoniker": "..\\virtual-folio\\index.html",
-              "ToolTip": "F:\\ASPNET\\virtual-folio\\index.html",
-              "RelativeToolTip": "..\\virtual-folio\\index.html",
-              "ViewState": "AQIAAHoAAAAAAAAAAAAmwBoAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-02-20T01:35:09.857Z",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\ASPNET\\Portfolio\\Pages\\Admin\\Projects\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Projects\\Index.cshtml",
+              "ToolTip": "F:\\ASPNET\\Portfolio\\Pages\\Admin\\Projects\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Projects\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T03:50:35.957Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\ASPNET\\Portfolio\\Pages\\Admin\\Projects\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Projects\\Edit.cshtml",
+              "ToolTip": "F:\\ASPNET\\Portfolio\\Pages\\Admin\\Projects\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Projects\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T03:50:27.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\ASPNET\\Portfolio\\Pages\\Admin\\Projects\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Projects\\Delete.cshtml",
+              "ToolTip": "F:\\ASPNET\\Portfolio\\Pages\\Admin\\Projects\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Projects\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T03:50:26.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "F:\\ASPNET\\Portfolio\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
+              "ToolTip": "F:\\ASPNET\\Portfolio\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T03:50:17.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "F:\\ASPNET\\Portfolio\\Pages\\Admin\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Account\\Login.cshtml",
+              "ToolTip": "F:\\ASPNET\\Portfolio\\Pages\\Admin\\Account\\Login.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T03:49:59.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\ASPNET\\Portfolio\\Pages\\Admin\\Projects\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Projects\\Create.cshtml",
+              "ToolTip": "F:\\ASPNET\\Portfolio\\Pages\\Admin\\Projects\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Projects\\Create.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAMwA8AAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T03:00:58.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Projects [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/._SQLEXPRESS/Project/True/SqlTable/dbo.Projects.sql",
+              "ToolTip": "dbo.Projects [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-02-20T02:43:56.016Z"
             },
             {
               "$type": "Document",
@@ -40,10 +145,34 @@
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
               "ToolTip": "F:\\ASPNET\\Portfolio\\Pages\\Index.cshtml",
               "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAABoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-19T23:36:34.579Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\ASPNET\\Portfolio\\Services\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Services\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\ASPNET\\Portfolio\\Services\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Services\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T02:44:52.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.html",
+              "DocumentMoniker": "F:\\ASPNET\\virtual-folio\\index.html",
+              "RelativeDocumentMoniker": "..\\virtual-folio\\index.html",
+              "ToolTip": "F:\\ASPNET\\virtual-folio\\index.html",
+              "RelativeToolTip": "..\\virtual-folio\\index.html",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAmwBoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-20T01:35:09.857Z"
             }
           ]
         }
